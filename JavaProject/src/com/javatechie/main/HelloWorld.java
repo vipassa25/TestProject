@@ -10,6 +10,7 @@ public class HelloWorld {
 		String str = null;
 		if(str.length()==1){
 			System.out.println("test");
+			system.out.println("demo");
 		}
 	}
 
